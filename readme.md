@@ -51,7 +51,7 @@ To understand the factors affecting passenger survival on the Titanic such as ge
 
 ## Dashboard Preview
 
-![Dashboard Preview](dashboard_preview-1.png)
+![Dashboard Preview](dashboard_preview.png)
 
 
 
